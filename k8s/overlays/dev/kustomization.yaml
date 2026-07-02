@@ -9,7 +9,7 @@ resources:
 images:
   - name: ghcr.io/DongaNiharika14/gitops-demo-app
     newName: ghcr.io/DongaNiharika14/gitops-demo-app
-    newTag: latest
+    newTag: sha-68bd253
 
 replicas:
   - name: gitops-demo-app
