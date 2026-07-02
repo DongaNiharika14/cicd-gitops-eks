@@ -10,7 +10,7 @@ on:
     branches: ["main"]
 
 env:
-  IMAGE_NAME: ${{ github.repository_owner }}/gitops-demo-app
+  IMAGE_NAME: donganiharika14/gitops-demo-app
 
 jobs:
   test:
